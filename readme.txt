@@ -43,8 +43,6 @@ We can fix some things for free for the users who provide translation of our plu
 
 == Installation ==
 
-Installation procedure:
-
 1. Deactivate the plugin if you have the previous version installed.
 2. Extract "user-role.zip" archive content to the "/wp-content/plugins/user-role" directory.
 3. Activate "user-role" plugin via 'Plugins' menu in WordPress admin menu.
